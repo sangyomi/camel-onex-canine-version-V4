@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcanine_gui.a CMakeFiles/canine_gui.dir/canine_gui_autogen/mocs_compilation.cpp.o CMakeFiles/canine_gui.dir/include/canine_gui/mainwindow.cpp.o CMakeFiles/canine_gui.dir/include/canine_gui/qcustomplot.cpp.o
+/usr/bin/ranlib libcanine_gui.a

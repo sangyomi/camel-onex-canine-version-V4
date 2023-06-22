@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+e80bcf6629d95ca4340dfe1a04e6e5f4 CMakeFiles/QtTCPClient_autogen
+4b89f79de75ffee438e3d865e06f4b85 canine_gui/CMakeFiles/canine_gui_autogen
